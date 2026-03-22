@@ -1,0 +1,12 @@
+ID,Name,Age,Marks,City,Result,Grade,Category
+1,Ravi,20,75,Vijayawada,pass,B,average
+2,Priya,21,82,Hyderabad,pass,B,top student
+3,Kiran,19,68,Chennai,fail,C,average
+4,Anjali,22,90,Bangalore,pass,A,top student
+5,Suresh,20,55,Mumbai,fail,C,average
+,,,,,,,
+total students,5,,,,,,
+average marks,74,,,,,,
+highest scoore,90,,,,,,
+ lowest score,55,,,,,,
+pass students,3,,,,,,
